@@ -1,0 +1,23 @@
+{
+  "name": "assignment-3-start",
+  "version": "1.0.0",
+
+
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "save-dev": "^0.0.1-security",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.1"
+  },
+  "keywords": [],
+  "description": ""
+}
